@@ -1,6 +1,5 @@
 // 1. *** use your own url copied from Postman ****
-let requestURL = "https://maps.googleapis.com/maps/api/place/textsearch/json?query=thai&key=AIzaSyB-_poJWM5vviPGK5giUto7cgwSrEICulU&location=41.265330, -95.949360&radius=500&type=restaurant&maxprice=1&rating=>4"
-
+let requestURL = "https://maps.googleapis.com/maps/api/place/textsearch/json?query=thai&key=AIzaSyBPNaq_xra0zcuy6rldEA4vhQXnDaRLLpg&location=41.265330, -95.949360&radius=500&type=restaurant&maxprice=1&rating=>4"
 function onXHRLoad() {
     let message = ""
     
